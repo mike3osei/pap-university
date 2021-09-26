@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8a0f413.chunk.css",
-    "main.js": "/static/js/main.7c12deba.chunk.js",
-    "main.js.map": "/static/js/main.7c12deba.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2d5b9c8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2d5b9c8.js.map",
-    "static/js/2.8c3c6f37.chunk.js": "/static/js/2.8c3c6f37.chunk.js",
-    "static/js/2.8c3c6f37.chunk.js.map": "/static/js/2.8c3c6f37.chunk.js.map",
-    "static/js/3.51bc2f78.chunk.js": "/static/js/3.51bc2f78.chunk.js",
-    "static/js/3.51bc2f78.chunk.js.map": "/static/js/3.51bc2f78.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f751b51237c781e8f2fab6e939305248.js": "/precache-manifest.f751b51237c781e8f2fab6e939305248.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d8a0f413.chunk.css.map": "/static/css/main.d8a0f413.chunk.css.map",
-    "static/js/2.8c3c6f37.chunk.js.LICENSE.txt": "/static/js/2.8c3c6f37.chunk.js.LICENSE.txt"
+    "main.css": "/pap-university/static/css/main.d8a0f413.chunk.css",
+    "main.js": "/pap-university/static/js/main.7c12deba.chunk.js",
+    "main.js.map": "/pap-university/static/js/main.7c12deba.chunk.js.map",
+    "runtime-main.js": "/pap-university/static/js/runtime-main.2444e590.js",
+    "runtime-main.js.map": "/pap-university/static/js/runtime-main.2444e590.js.map",
+    "static/js/2.8c3c6f37.chunk.js": "/pap-university/static/js/2.8c3c6f37.chunk.js",
+    "static/js/2.8c3c6f37.chunk.js.map": "/pap-university/static/js/2.8c3c6f37.chunk.js.map",
+    "static/js/3.51bc2f78.chunk.js": "/pap-university/static/js/3.51bc2f78.chunk.js",
+    "static/js/3.51bc2f78.chunk.js.map": "/pap-university/static/js/3.51bc2f78.chunk.js.map",
+    "index.html": "/pap-university/index.html",
+    "precache-manifest.1e7afbc589bd3d33e4be64bdd759c953.js": "/pap-university/precache-manifest.1e7afbc589bd3d33e4be64bdd759c953.js",
+    "service-worker.js": "/pap-university/service-worker.js",
+    "static/css/main.d8a0f413.chunk.css.map": "/pap-university/static/css/main.d8a0f413.chunk.css.map",
+    "static/js/2.8c3c6f37.chunk.js.LICENSE.txt": "/pap-university/static/js/2.8c3c6f37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2d5b9c8.js",
+    "static/js/runtime-main.2444e590.js",
     "static/js/2.8c3c6f37.chunk.js",
     "static/css/main.d8a0f413.chunk.css",
     "static/js/main.7c12deba.chunk.js"
