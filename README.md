@@ -8,7 +8,7 @@ https://mike3osei.github.io/pap-university/#/
 
 ## Description 
 
-The goal of this User Interface was to display relevant universities in the state of Massuchusetts. The main components impleneted here were Fuzzy Search based on Institutional Names, Dynamic Pagination, as well as a detailed information about each university and their programs. 
+The goal of this User Interface was to display relevant universities in the state of Massuchusetts. The main components impleneted here were Fuzzy Search based on Institutional Names, Dynamic Pagination, as well as a detailed information about each university and their programs. No external libraries were used. This application allows users to view a more detailed view of the university if they click on Programs. If they click on Visit that will take them to the univerisity's external site.
 
 Special thanks to ReactJS, US Department of Education, HTML, CSS, and Git Pages
 
@@ -19,19 +19,34 @@ Without you all this application would not be possible.
 
 
 ## Screenshots 
+User Scenario which takes you through the navigating the home page, searching for Worcester Polytechnic Institute and viewing their specific programs
+
 ![alt text](imgs/Home.png)
+Every user has to start from somewhere :D
+
 ![alt text](imgs/HomeSearch.png)
+Fuzzy Search is implemented here to filter our large dataset
+
 ![alt text](imgs/ViewSchool.png)
+Here, we're showcasing everything there is about Worcester Polytechnic Institute
 
 ## Technical & Design • Achievements  
 
-The data which was used, had to be normalized throughout because it was not clean data. The CSV combined two different separate data types 
+- ReactJS
+- React-Router-Dom
+- Manual Pagination
+- Fulltext Search (Fuzzy Search)
+- React Deployment to Gitpages
+- HashRouter
+- Dark Mode
 
 
 ## Future Enhancements  
 
-Previously I had never implemented any form of animation in my data visualizations. I was able to utilize d3 animations to transition 
-
+- Advanced Search on any column
+- Sorting in Big O(nlogn) time / QuickSort
+- Map component, given latitutde and longitude
+- Reduce state changes to optimize re-renders
 
 ## Deploy Locally
 
