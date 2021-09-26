@@ -1,6 +1,8 @@
 Takehome - Paperless University  
 ===
 
+![alt text](imgs/Home.png)
+
 ## Link
 https://mike3osei.github.io/pap-university/#/
 
@@ -15,9 +17,9 @@ https://pages.github.com/
 
 Without you all this application would not be possible.
 
-![alt text](imgs/Home.png)
 
 ## Screenshots 
+![alt text](imgs/Home.png)
 ![alt text](imgs/HomeSearch.png)
 ![alt text](imgs/ViewSchool.png)
 
