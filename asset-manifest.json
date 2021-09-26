@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pap-university/static/css/main.d8a0f413.chunk.css",
+    "main.js": "/pap-university/static/js/main.f7ff5836.chunk.js",
+    "main.js.map": "/pap-university/static/js/main.f7ff5836.chunk.js.map",
+    "runtime-main.js": "/pap-university/static/js/runtime-main.2444e590.js",
+    "runtime-main.js.map": "/pap-university/static/js/runtime-main.2444e590.js.map",
+    "static/js/2.21a46fcc.chunk.js": "/pap-university/static/js/2.21a46fcc.chunk.js",
+    "static/js/2.21a46fcc.chunk.js.map": "/pap-university/static/js/2.21a46fcc.chunk.js.map",
+    "static/js/3.51bc2f78.chunk.js": "/pap-university/static/js/3.51bc2f78.chunk.js",
+    "static/js/3.51bc2f78.chunk.js.map": "/pap-university/static/js/3.51bc2f78.chunk.js.map",
+    "index.html": "/pap-university/index.html",
+    "precache-manifest.7dedc9a339f2ffea79d4934816ab39c2.js": "/pap-university/precache-manifest.7dedc9a339f2ffea79d4934816ab39c2.js",
+    "service-worker.js": "/pap-university/service-worker.js",
+    "static/css/main.d8a0f413.chunk.css.map": "/pap-university/static/css/main.d8a0f413.chunk.css.map",
+    "static/js/2.21a46fcc.chunk.js.LICENSE.txt": "/pap-university/static/js/2.21a46fcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2444e590.js",
+    "static/js/2.21a46fcc.chunk.js",
+    "static/css/main.d8a0f413.chunk.css",
+    "static/js/main.f7ff5836.chunk.js"
+  ]
+}
