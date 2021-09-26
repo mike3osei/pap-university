@@ -69,7 +69,11 @@ class School extends React.Component {
 
             <div className="container--flex">
                 <button className="program--button-school">{this.state.school ? this.state.school.CITY + ", " + this.state.school.STABBR  : "" }</button>
-                <Link to={{ pathname: "https://" + (this.state.school ? this.state.school.INSTURL : "" )}} target="_blank"><button className="program--button-school">{this.state.school ? this.state.school.INSTURL : "" }</button></Link>
+
+                <button onClick={() => (
+                  
+                  window.open("https://" + (this.state.school ? this.state.school.INSTURL : "")))}
+                   className="program--button-school">{this.state.school ? this.state.school.INSTURL : "" }</button>
             </div>
 
             <hr></hr>

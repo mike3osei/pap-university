@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import { createBrowserHistory } from "history";
-import { Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home";
 import School from "./pages/School";
 import './App.css';
@@ -18,7 +18,7 @@ class App extends Component {
 	render() {
 		return (
 			<div className="">
-				<Router history={history}>
+				<Router basename="/" history={history}>
 					<Fragment>
 						<main>
 							<Switch>

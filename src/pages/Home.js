@@ -133,7 +133,8 @@ class Home extends React.Component {
           if(index === 6){
             return <td key={props.data[key]}><Link to={"/school/" + rowKey} ><button className="program--button"> {(props.data[key] && props.data[key].length !== 0) ? props.data[key].length : 0} Programs</button></Link></td>
           }else if(index === 12){
-            return <td key={props.data[key]}><Link to={{ pathname: "https://" + props.data[key] }} target="_blank"><button className="program--button"> VISIT </button></Link></td>
+            let li = "https://" + props.data[key]
+            return <td key={props.data[key]}><button onClick={() => window.open(li)} className="program--button"> VISIT </button></td>
           }else{
             return <td key={props.data[key]}>{props.data[key]}</td>
           }
