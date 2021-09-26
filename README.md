@@ -47,6 +47,7 @@ Here, we're showcasing everything there is about Worcester Polytechnic Institute
 - Sorting in Big O(nlogn) time / QuickSort
 - Map component, given latitutde and longitude
 - Reduce state changes to optimize re-renders
+- Responsiveness for all viewing sizes
 
 ## Deploy Locally
 
